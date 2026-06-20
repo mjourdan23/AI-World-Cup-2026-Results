@@ -753,7 +753,7 @@
     {
       "id": "760444",
       "utcDate": "2026-06-20T00:30Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group C",
@@ -778,7 +778,7 @@
     {
       "id": "760443",
       "utcDate": "2026-06-20T03:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group D",
@@ -794,8 +794,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "venue": "Levi's Stadium, Santa Clara, California"
@@ -2033,9 +2033,9 @@
       "stage": "GROUP_STAGE",
       "group": null,
       "homeTeam": {
-        "name": "Group D Winner",
-        "shortName": "1D",
-        "tla": "1D"
+        "name": "United States",
+        "shortName": "USA",
+        "tla": "USA"
       },
       "awayTeam": {
         "name": "Third Place Group B/E/F/I/J",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-20T02:23:57.579109+00:00",
+  "lastUpdated": "2026-06-20T06:47:03.583099+00:00",
   "source": "espn"
 }
