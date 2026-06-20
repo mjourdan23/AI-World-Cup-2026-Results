@@ -803,7 +803,7 @@
     {
       "id": "760447",
       "utcDate": "2026-06-20T17:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group F",
@@ -819,8 +819,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "venue": "NRG Stadium, Houston, Texas"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-20T16:23:57.569734+00:00",
+  "lastUpdated": "2026-06-20T17:55:38.599544+00:00",
   "source": "espn"
 }
