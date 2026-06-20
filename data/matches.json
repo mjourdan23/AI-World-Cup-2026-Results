@@ -828,7 +828,7 @@
     {
       "id": "760448",
       "utcDate": "2026-06-20T20:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group E",
@@ -844,8 +844,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "venue": "BMO Field, Toronto"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-20T19:47:54.674545+00:00",
+  "lastUpdated": "2026-06-20T21:22:52.292906+00:00",
   "source": "espn"
 }
