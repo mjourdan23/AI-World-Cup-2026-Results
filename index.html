@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIFA World Cup 2026 - Live Results & Standings</title>
+    <meta name="description" content="Live World Cup 2026 results, scores, standings, and match schedule. Auto-updated from official sources.">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚽</text></svg>">
+</head>
+<body>
+    <header class="hero">
+        <div class="hero-bg"></div>
+        <div class="container">
+            <div class="hero-content">
+                <div class="tournament-badge">FIFA WORLD CUP</div>
+                <h1>World Cup 2026</h1>
+                <p class="hero-subtitle">United States | Mexico | Canada</p>
+                <div class="live-indicator" id="liveIndicator">
+                    <span class="pulse"></span>
+                    <span id="statusText">Loading data...</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <nav class="tab-nav" id="tabNav">
+        <div class="container">
+            <div class="tab-list">
+                <button class="tab-btn active" data-tab="today">Today's Matches</button>
+                <button class="tab-btn" data-tab="results">Results</button>
+                <button class="tab-btn" data-tab="standings">Standings</button>
+                <button class="tab-btn" data-tab="schedule">Schedule</button>
+                <button class="tab-btn" data-tab="knockout">Knockout Stage</button>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container">
+        <!-- Today's Matches -->
+        <section class="tab-content active" id="tab-today">
+            <h2 class="section-title">Today's Matches</h2>
+            <div class="matches-grid" id="todayMatches">
+                <div class="loading-skeleton">
+                    <div class="skeleton-card"></div>
+                    <div class="skeleton-card"></div>
+                    <div class="skeleton-card"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Results -->
+        <section class="tab-content" id="tab-results">
+            <h2 class="section-title">Match Results</h2>
+            <div class="filter-bar">
+                <select id="resultFilter" class="filter-select">
+                    <option value="all">All Matches</option>
+                    <option value="today">Today</option>
+                    <option value="yesterday">Yesterday</option>
+                    <option value="group">Group Stage</option>
+                    <option value="knockout">Knockout Stage</option>
+                </select>
+            </div>
+            <div class="matches-list" id="resultsList">
+                <div class="loading-skeleton">
+                    <div class="skeleton-card"></div>
+                    <div class="skeleton-card"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Standings -->
+        <section class="tab-content" id="tab-standings">
+            <h2 class="section-title">Group Standings</h2>
+            <div class="standings-grid" id="standingsGrid">
+                <div class="loading-skeleton">
+                    <div class="skeleton-card tall"></div>
+                    <div class="skeleton-card tall"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Schedule -->
+        <section class="tab-content" id="tab-schedule">
+            <h2 class="section-title">Upcoming Matches</h2>
+            <div class="matches-list" id="scheduleList">
+                <div class="loading-skeleton">
+                    <div class="skeleton-card"></div>
+                    <div class="skeleton-card"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Knockout Stage -->
+        <section class="tab-content" id="tab-knockout">
+            <h2 class="section-title">Knockout Stage</h2>
+            <div class="knockout-bracket" id="knockoutBracket">
+                <p class="placeholder-text" id="knockoutPlaceholder">Knockout stage matches will appear here once the group stage is complete.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-content">
+                <p class="footer-update">Last updated: <span id="lastUpdate">--</span></p>
+                <p class="footer-source">Data sourced from football-data.org & ESPN</p>
+                <p class="footer-auto">Auto-refreshes every 2 minutes during live matches</p>
+                <p class="footer-credit">Built with AI</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/api.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
