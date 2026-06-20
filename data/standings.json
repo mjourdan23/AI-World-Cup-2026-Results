@@ -331,38 +331,38 @@
         {
           "position": 1,
           "team": {
-            "name": "Sweden",
-            "tla": "SWE"
+            "name": "Netherlands",
+            "tla": "NED"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 0,
-          "goalsFor": 5,
-          "goalsAgainst": 1,
+          "goalsFor": 7,
+          "goalsAgainst": 3,
           "goalDifference": 4,
-          "points": 3
+          "points": 4
         },
         {
           "position": 2,
           "team": {
-            "name": "Japan",
-            "tla": "JPN"
+            "name": "Sweden",
+            "tla": "SWE"
           },
-          "playedGames": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
+          "playedGames": 2,
+          "won": 1,
+          "draw": 0,
+          "lost": 1,
+          "goalsFor": 6,
+          "goalsAgainst": 6,
           "goalDifference": 0,
-          "points": 1
+          "points": 3
         },
         {
           "position": 3,
           "team": {
-            "name": "Netherlands",
-            "tla": "NED"
+            "name": "Japan",
+            "tla": "JPN"
           },
           "playedGames": 1,
           "won": 0,
@@ -781,6 +781,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-20T17:55:38.599544+00:00",
+  "lastUpdated": "2026-06-20T19:47:54.674545+00:00",
   "source": "espn"
 }
