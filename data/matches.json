@@ -853,7 +853,7 @@
     {
       "id": "760446",
       "utcDate": "2026-06-21T00:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group E",
@@ -869,8 +869,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "venue": "GEHA Field at Arrowhead Stadium, Kansas City, Missouri"
@@ -878,7 +878,7 @@
     {
       "id": "760449",
       "utcDate": "2026-06-21T04:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group F",
@@ -894,8 +894,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         }
       },
       "venue": "Estadio BBVA, Guadalupe"
@@ -1858,9 +1858,9 @@
       "stage": "GROUP_STAGE",
       "group": null,
       "homeTeam": {
-        "name": "Group E Winner",
-        "shortName": "1E",
-        "tla": "1E"
+        "name": "Germany",
+        "shortName": "Germany",
+        "tla": "GER"
       },
       "awayTeam": {
         "name": "Third Place Group A/B/C/D/F",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-21T00:14:02.533037+00:00",
+  "lastUpdated": "2026-06-21T05:26:52.032534+00:00",
   "source": "espn"
 }

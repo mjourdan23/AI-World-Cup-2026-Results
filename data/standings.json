@@ -299,14 +299,14 @@
             "name": "Ecuador",
             "tla": "ECU"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "won": 0,
-          "draw": 0,
+          "draw": 1,
           "lost": 1,
           "goalsFor": 0,
           "goalsAgainst": 1,
           "goalDifference": -1,
-          "points": 0
+          "points": 1
         },
         {
           "position": 4,
@@ -314,14 +314,14 @@
             "name": "Curaçao",
             "tla": "CUW"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "won": 0,
-          "draw": 0,
+          "draw": 1,
           "lost": 1,
           "goalsFor": 1,
           "goalsAgainst": 7,
           "goalDifference": -6,
-          "points": 0
+          "points": 1
         }
       ]
     },
@@ -781,6 +781,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-21T00:14:02.533037+00:00",
+  "lastUpdated": "2026-06-21T05:26:52.032534+00:00",
   "source": "espn"
 }
