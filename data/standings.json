@@ -346,6 +346,21 @@
         {
           "position": 2,
           "team": {
+            "name": "Japan",
+            "tla": "JPN"
+          },
+          "playedGames": 2,
+          "won": 1,
+          "draw": 1,
+          "lost": 0,
+          "goalsFor": 6,
+          "goalsAgainst": 2,
+          "goalDifference": 4,
+          "points": 4
+        },
+        {
+          "position": 3,
+          "team": {
             "name": "Sweden",
             "tla": "SWE"
           },
@@ -359,33 +374,18 @@
           "points": 3
         },
         {
-          "position": 3,
-          "team": {
-            "name": "Japan",
-            "tla": "JPN"
-          },
-          "playedGames": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
-          "goalDifference": 0,
-          "points": 1
-        },
-        {
           "position": 4,
           "team": {
             "name": "Tunisia",
             "tla": "TUN"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "won": 0,
           "draw": 0,
-          "lost": 1,
+          "lost": 2,
           "goalsFor": 1,
-          "goalsAgainst": 5,
-          "goalDifference": -4,
+          "goalsAgainst": 9,
+          "goalDifference": -8,
           "points": 0
         }
       ]
@@ -781,6 +781,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-21T05:26:52.032534+00:00",
+  "lastUpdated": "2026-06-21T09:10:08.936018+00:00",
   "source": "espn"
 }
