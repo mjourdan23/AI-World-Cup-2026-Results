@@ -953,7 +953,7 @@
     {
       "id": "760450",
       "utcDate": "2026-06-21T22:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group H",
@@ -969,8 +969,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "venue": "Hard Rock Stadium, Miami Gardens, Florida"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-21T21:56:17.996045+00:00",
+  "lastUpdated": "2026-06-21T23:24:27.340407+00:00",
   "source": "espn"
 }
