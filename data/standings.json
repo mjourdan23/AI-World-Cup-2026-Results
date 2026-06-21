@@ -396,6 +396,36 @@
         {
           "position": 1,
           "team": {
+            "name": "Iran",
+            "tla": "IRN"
+          },
+          "playedGames": 2,
+          "won": 0,
+          "draw": 2,
+          "lost": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
+          "goalDifference": 0,
+          "points": 2
+        },
+        {
+          "position": 2,
+          "team": {
+            "name": "Belgium",
+            "tla": "BEL"
+          },
+          "playedGames": 2,
+          "won": 0,
+          "draw": 2,
+          "lost": 0,
+          "goalsFor": 1,
+          "goalsAgainst": 1,
+          "goalDifference": 0,
+          "points": 2
+        },
+        {
+          "position": 3,
+          "team": {
             "name": "New Zealand",
             "tla": "NZL"
           },
@@ -405,36 +435,6 @@
           "lost": 0,
           "goalsFor": 2,
           "goalsAgainst": 2,
-          "goalDifference": 0,
-          "points": 1
-        },
-        {
-          "position": 2,
-          "team": {
-            "name": "Iran",
-            "tla": "IRN"
-          },
-          "playedGames": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
-          "goalDifference": 0,
-          "points": 1
-        },
-        {
-          "position": 3,
-          "team": {
-            "name": "Belgium",
-            "tla": "BEL"
-          },
-          "playedGames": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 1,
           "goalDifference": 0,
           "points": 1
         },
@@ -781,6 +781,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-21T20:13:39.204366+00:00",
+  "lastUpdated": "2026-06-21T21:56:17.996045+00:00",
   "source": "espn"
 }

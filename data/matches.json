@@ -928,7 +928,7 @@
     {
       "id": "760451",
       "utcDate": "2026-06-21T19:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group G",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-21T20:13:39.204366+00:00",
+  "lastUpdated": "2026-06-21T21:56:17.996045+00:00",
   "source": "espn"
 }
