@@ -928,7 +928,7 @@
     {
       "id": "760451",
       "utcDate": "2026-06-21T19:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group G",
@@ -944,8 +944,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "venue": "SoFi Stadium, Inglewood, California"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-21T18:22:25.279767+00:00",
+  "lastUpdated": "2026-06-21T20:13:39.204366+00:00",
   "source": "espn"
 }
