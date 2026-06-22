@@ -594,14 +594,14 @@
             "name": "Argentina",
             "tla": "ARG"
           },
-          "playedGames": 1,
-          "won": 1,
+          "playedGames": 2,
+          "won": 2,
           "draw": 0,
           "lost": 0,
-          "goalsFor": 3,
+          "goalsFor": 5,
           "goalsAgainst": 0,
-          "goalDifference": 3,
-          "points": 3
+          "goalDifference": 5,
+          "points": 6
         },
         {
           "position": 2,
@@ -609,13 +609,13 @@
             "name": "Austria",
             "tla": "AUT"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "won": 1,
           "draw": 0,
-          "lost": 0,
+          "lost": 1,
           "goalsFor": 3,
-          "goalsAgainst": 1,
-          "goalDifference": 2,
+          "goalsAgainst": 3,
+          "goalDifference": 0,
           "points": 3
         },
         {
@@ -781,6 +781,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-22T18:50:53.258885+00:00",
+  "lastUpdated": "2026-06-22T21:33:20.460055+00:00",
   "source": "espn"
 }
