@@ -479,17 +479,32 @@
             "name": "Uruguay",
             "tla": "URU"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "won": 0,
-          "draw": 1,
+          "draw": 2,
           "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 3,
           "goalDifference": 0,
-          "points": 1
+          "points": 2
         },
         {
           "position": 3,
+          "team": {
+            "name": "Cape Verde",
+            "tla": "CPV"
+          },
+          "playedGames": 2,
+          "won": 0,
+          "draw": 2,
+          "lost": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
+          "goalDifference": 0,
+          "points": 2
+        },
+        {
+          "position": 4,
           "team": {
             "name": "Saudi Arabia",
             "tla": "KSA"
@@ -501,21 +516,6 @@
           "goalsFor": 1,
           "goalsAgainst": 5,
           "goalDifference": -4,
-          "points": 1
-        },
-        {
-          "position": 4,
-          "team": {
-            "name": "Cape Verde",
-            "tla": "CPV"
-          },
-          "playedGames": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
           "points": 1
         }
       ]
@@ -781,6 +781,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-21T23:24:27.340407+00:00",
+  "lastUpdated": "2026-06-22T02:04:30.001229+00:00",
   "source": "espn"
 }
