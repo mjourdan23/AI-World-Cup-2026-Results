@@ -1003,7 +1003,7 @@
     {
       "id": "760456",
       "utcDate": "2026-06-22T17:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group J",
@@ -1019,8 +1019,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "venue": "AT&T Stadium, Arlington, Texas"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-22T14:47:28.865133+00:00",
+  "lastUpdated": "2026-06-22T18:50:53.258885+00:00",
   "source": "espn"
 }
