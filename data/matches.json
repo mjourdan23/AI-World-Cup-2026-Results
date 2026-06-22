@@ -978,7 +978,7 @@
     {
       "id": "760452",
       "utcDate": "2026-06-22T01:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group G",
@@ -995,7 +995,7 @@
       "score": {
         "fullTime": {
           "home": 1,
-          "away": 0
+          "away": 3
         }
       },
       "venue": "BC Place, Vancouver"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-22T02:04:30.001229+00:00",
+  "lastUpdated": "2026-06-22T08:40:46.778735+00:00",
   "source": "espn"
 }

@@ -396,6 +396,21 @@
         {
           "position": 1,
           "team": {
+            "name": "Egypt",
+            "tla": "EGY"
+          },
+          "playedGames": 2,
+          "won": 1,
+          "draw": 1,
+          "lost": 0,
+          "goalsFor": 4,
+          "goalsAgainst": 2,
+          "goalDifference": 2,
+          "points": 4
+        },
+        {
+          "position": 2,
+          "team": {
             "name": "Iran",
             "tla": "IRN"
           },
@@ -409,7 +424,7 @@
           "points": 2
         },
         {
-          "position": 2,
+          "position": 3,
           "team": {
             "name": "Belgium",
             "tla": "BEL"
@@ -424,33 +439,18 @@
           "points": 2
         },
         {
-          "position": 3,
+          "position": 4,
           "team": {
             "name": "New Zealand",
             "tla": "NZL"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "won": 0,
           "draw": 1,
-          "lost": 0,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
-          "goalDifference": 0,
-          "points": 1
-        },
-        {
-          "position": 4,
-          "team": {
-            "name": "Egypt",
-            "tla": "EGY"
-          },
-          "playedGames": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 1,
-          "goalDifference": 0,
+          "lost": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 5,
+          "goalDifference": -2,
           "points": 1
         }
       ]
@@ -781,6 +781,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-22T02:04:30.001229+00:00",
+  "lastUpdated": "2026-06-22T08:40:46.778735+00:00",
   "source": "espn"
 }
