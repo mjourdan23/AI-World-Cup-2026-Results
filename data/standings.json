@@ -656,6 +656,21 @@
         {
           "position": 1,
           "team": {
+            "name": "Portugal",
+            "tla": "POR"
+          },
+          "playedGames": 2,
+          "won": 1,
+          "draw": 1,
+          "lost": 0,
+          "goalsFor": 6,
+          "goalsAgainst": 1,
+          "goalDifference": 5,
+          "points": 4
+        },
+        {
+          "position": 2,
+          "team": {
             "name": "Colombia",
             "tla": "COL"
           },
@@ -669,25 +684,10 @@
           "points": 3
         },
         {
-          "position": 2,
+          "position": 3,
           "team": {
             "name": "Congo DR",
             "tla": "COD"
-          },
-          "playedGames": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 1,
-          "goalDifference": 0,
-          "points": 1
-        },
-        {
-          "position": 3,
-          "team": {
-            "name": "Portugal",
-            "tla": "POR"
           },
           "playedGames": 1,
           "won": 0,
@@ -704,13 +704,13 @@
             "name": "Uzbekistan",
             "tla": "UZB"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "won": 0,
           "draw": 0,
-          "lost": 1,
+          "lost": 2,
           "goalsFor": 1,
-          "goalsAgainst": 3,
-          "goalDifference": -2,
+          "goalsAgainst": 8,
+          "goalDifference": -7,
           "points": 0
         }
       ]
@@ -781,6 +781,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-23T18:22:52.898691+00:00",
+  "lastUpdated": "2026-06-23T20:34:33.947481+00:00",
   "source": "espn"
 }

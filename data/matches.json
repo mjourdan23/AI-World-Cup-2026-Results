@@ -1103,7 +1103,7 @@
     {
       "id": "760461",
       "utcDate": "2026-06-23T17:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group K",
@@ -1119,7 +1119,7 @@
       },
       "score": {
         "fullTime": {
-          "home": 3,
+          "home": 5,
           "away": 0
         }
       },
@@ -1128,7 +1128,7 @@
     {
       "id": "760458",
       "utcDate": "2026-06-23T20:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group L",
@@ -1144,8 +1144,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "venue": "Gillette Stadium, Foxborough, Massachusetts"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-23T18:22:52.898691+00:00",
+  "lastUpdated": "2026-06-23T20:34:33.947481+00:00",
   "source": "espn"
 }
