@@ -1053,7 +1053,7 @@
     {
       "id": "760454",
       "utcDate": "2026-06-23T00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group I",
@@ -1069,8 +1069,8 @@
       },
       "score": {
         "fullTime": {
-          "home": 1,
-          "away": 0
+          "home": 3,
+          "away": 2
         }
       },
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
@@ -1078,7 +1078,7 @@
     {
       "id": "760455",
       "utcDate": "2026-06-23T03:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group J",
@@ -1094,8 +1094,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 2
         }
       },
       "venue": "Levi's Stadium, Santa Clara, California"
@@ -2158,9 +2158,9 @@
       "stage": "GROUP_STAGE",
       "group": null,
       "homeTeam": {
-        "name": "Group J Winner",
-        "shortName": "1J",
-        "tla": "1J"
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "tla": "ARG"
       },
       "awayTeam": {
         "name": "Group H 2nd Place",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-23T01:31:59.715510+00:00",
+  "lastUpdated": "2026-06-23T06:13:35.842898+00:00",
   "source": "espn"
 }
