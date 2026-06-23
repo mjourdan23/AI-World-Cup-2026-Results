@@ -1028,7 +1028,7 @@
     {
       "id": "760457",
       "utcDate": "2026-06-22T21:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group I",
@@ -1044,7 +1044,7 @@
       },
       "score": {
         "fullTime": {
-          "home": 1,
+          "home": 3,
           "away": 0
         }
       },
@@ -1053,7 +1053,7 @@
     {
       "id": "760454",
       "utcDate": "2026-06-23T00:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group I",
@@ -1069,8 +1069,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-22T23:24:49.091936+00:00",
+  "lastUpdated": "2026-06-23T01:31:59.715510+00:00",
   "source": "espn"
 }
