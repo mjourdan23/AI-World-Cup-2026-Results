@@ -1203,7 +1203,7 @@
     {
       "id": "760462",
       "utcDate": "2026-06-24T19:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group B",
@@ -1219,8 +1219,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         }
       },
       "venue": "Lumen Field, Seattle, Washington"
@@ -1228,7 +1228,7 @@
     {
       "id": "760463",
       "utcDate": "2026-06-24T19:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group B",
@@ -1244,8 +1244,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "venue": "BC Place, Vancouver"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-24T18:19:20.447072+00:00",
+  "lastUpdated": "2026-06-24T20:19:04.883474+00:00",
   "source": "espn"
 }
