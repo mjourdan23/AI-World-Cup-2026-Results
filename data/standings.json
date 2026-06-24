@@ -71,31 +71,31 @@
         {
           "position": 1,
           "team": {
-            "name": "Canada",
-            "tla": "CAN"
+            "name": "Switzerland",
+            "tla": "SUI"
           },
-          "playedGames": 2,
-          "won": 1,
+          "playedGames": 3,
+          "won": 2,
           "draw": 1,
           "lost": 0,
           "goalsFor": 7,
-          "goalsAgainst": 1,
-          "goalDifference": 6,
-          "points": 4
+          "goalsAgainst": 3,
+          "goalDifference": 4,
+          "points": 7
         },
         {
           "position": 2,
           "team": {
-            "name": "Switzerland",
-            "tla": "SUI"
+            "name": "Canada",
+            "tla": "CAN"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 1,
           "draw": 1,
-          "lost": 0,
-          "goalsFor": 5,
-          "goalsAgainst": 2,
-          "goalDifference": 3,
+          "lost": 1,
+          "goalsFor": 8,
+          "goalsAgainst": 3,
+          "goalDifference": 5,
           "points": 4
         },
         {
@@ -104,14 +104,14 @@
             "name": "Bosnia-Herzegovina",
             "tla": "BIH"
           },
-          "playedGames": 2,
-          "won": 0,
+          "playedGames": 3,
+          "won": 1,
           "draw": 1,
           "lost": 1,
-          "goalsFor": 2,
-          "goalsAgainst": 5,
-          "goalDifference": -3,
-          "points": 1
+          "goalsFor": 5,
+          "goalsAgainst": 6,
+          "goalDifference": -1,
+          "points": 4
         },
         {
           "position": 4,
@@ -119,13 +119,13 @@
             "name": "Qatar",
             "tla": "QAT"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 0,
           "draw": 1,
-          "lost": 1,
-          "goalsFor": 1,
-          "goalsAgainst": 7,
-          "goalDifference": -6,
+          "lost": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 10,
+          "goalDifference": -8,
           "points": 1
         }
       ]
@@ -781,6 +781,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-24T20:19:04.883474+00:00",
+  "lastUpdated": "2026-06-24T21:55:06.570029+00:00",
   "source": "espn"
 }

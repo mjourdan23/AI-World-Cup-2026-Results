@@ -1203,7 +1203,7 @@
     {
       "id": "760462",
       "utcDate": "2026-06-24T19:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group B",
@@ -1219,7 +1219,7 @@
       },
       "score": {
         "fullTime": {
-          "home": 2,
+          "home": 3,
           "away": 1
         }
       },
@@ -1228,7 +1228,7 @@
     {
       "id": "760463",
       "utcDate": "2026-06-24T19:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group B",
@@ -1244,8 +1244,8 @@
       },
       "score": {
         "fullTime": {
-          "home": 1,
-          "away": 0
+          "home": 2,
+          "away": 1
         }
       },
       "venue": "BC Place, Vancouver"
@@ -1813,9 +1813,9 @@
         "tla": "2A"
       },
       "awayTeam": {
-        "name": "Group B 2nd Place",
-        "shortName": "2B",
-        "tla": "2B"
+        "name": "Canada",
+        "shortName": "Canada",
+        "tla": "CAN"
       },
       "score": {
         "fullTime": {
@@ -2108,9 +2108,9 @@
       "stage": "GROUP_STAGE",
       "group": null,
       "homeTeam": {
-        "name": "Group B Winner",
-        "shortName": "1B",
-        "tla": "1B"
+        "name": "Switzerland",
+        "shortName": "Switzerland",
+        "tla": "SUI"
       },
       "awayTeam": {
         "name": "Third Place Group E/F/G/I/J",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-24T20:19:04.883474+00:00",
+  "lastUpdated": "2026-06-24T21:55:06.570029+00:00",
   "source": "espn"
 }
