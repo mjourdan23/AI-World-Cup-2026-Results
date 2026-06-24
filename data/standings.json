@@ -656,6 +656,21 @@
         {
           "position": 1,
           "team": {
+            "name": "Colombia",
+            "tla": "COL"
+          },
+          "playedGames": 2,
+          "won": 2,
+          "draw": 0,
+          "lost": 0,
+          "goalsFor": 4,
+          "goalsAgainst": 1,
+          "goalDifference": 3,
+          "points": 6
+        },
+        {
+          "position": 2,
+          "team": {
             "name": "Portugal",
             "tla": "POR"
           },
@@ -669,33 +684,18 @@
           "points": 4
         },
         {
-          "position": 2,
-          "team": {
-            "name": "Colombia",
-            "tla": "COL"
-          },
-          "playedGames": 1,
-          "won": 1,
-          "draw": 0,
-          "lost": 0,
-          "goalsFor": 3,
-          "goalsAgainst": 1,
-          "goalDifference": 2,
-          "points": 3
-        },
-        {
           "position": 3,
           "team": {
             "name": "Congo DR",
             "tla": "COD"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "won": 0,
           "draw": 1,
-          "lost": 0,
+          "lost": 1,
           "goalsFor": 1,
-          "goalsAgainst": 1,
-          "goalDifference": 0,
+          "goalsAgainst": 2,
+          "goalDifference": -1,
           "points": 1
         },
         {
@@ -751,36 +751,36 @@
         {
           "position": 3,
           "team": {
-            "name": "Panama",
-            "tla": "PAN"
+            "name": "Croatia",
+            "tla": "CRO"
           },
-          "playedGames": 1,
-          "won": 0,
+          "playedGames": 2,
+          "won": 1,
           "draw": 0,
           "lost": 1,
-          "goalsFor": 0,
-          "goalsAgainst": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 4,
           "goalDifference": -1,
-          "points": 0
+          "points": 3
         },
         {
           "position": 4,
           "team": {
-            "name": "Croatia",
-            "tla": "CRO"
+            "name": "Panama",
+            "tla": "PAN"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "won": 0,
           "draw": 0,
-          "lost": 1,
-          "goalsFor": 2,
-          "goalsAgainst": 4,
+          "lost": 2,
+          "goalsFor": 0,
+          "goalsAgainst": 2,
           "goalDifference": -2,
           "points": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-23T23:36:35.761624+00:00",
+  "lastUpdated": "2026-06-24T04:04:54.318400+00:00",
   "source": "espn"
 }

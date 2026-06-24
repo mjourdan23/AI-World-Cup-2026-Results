@@ -1153,7 +1153,7 @@
     {
       "id": "760460",
       "utcDate": "2026-06-23T23:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group L",
@@ -1170,7 +1170,7 @@
       "score": {
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         }
       },
       "venue": "BMO Field, Toronto"
@@ -1178,7 +1178,7 @@
     {
       "id": "760459",
       "utcDate": "2026-06-24T02:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group K",
@@ -1194,8 +1194,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "venue": "Estadio Akron, Guadalajara"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-23T23:36:35.761624+00:00",
+  "lastUpdated": "2026-06-24T04:04:54.318400+00:00",
   "source": "espn"
 }
