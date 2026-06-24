@@ -1253,7 +1253,7 @@
     {
       "id": "760464",
       "utcDate": "2026-06-24T22:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group C",
@@ -1269,8 +1269,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         }
       },
       "venue": "Mercedes-Benz Stadium, Atlanta, Georgia"
@@ -1278,7 +1278,7 @@
     {
       "id": "760465",
       "utcDate": "2026-06-24T22:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group C",
@@ -1294,8 +1294,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         }
       },
       "venue": "Hard Rock Stadium, Miami Gardens, Florida"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-24T21:55:06.570029+00:00",
+  "lastUpdated": "2026-06-24T23:11:03.029147+00:00",
   "source": "espn"
 }
