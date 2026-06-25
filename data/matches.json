@@ -1353,7 +1353,7 @@
     {
       "id": "760473",
       "utcDate": "2026-06-25T20:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group E",
@@ -1369,8 +1369,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "venue": "Lincoln Financial Field, Philadelphia, Pennsylvania"
@@ -1378,7 +1378,7 @@
     {
       "id": "760468",
       "utcDate": "2026-06-25T20:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group E",
@@ -1394,8 +1394,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
@@ -1805,7 +1805,7 @@
       "utcDate": "2026-06-28T19:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "South Africa",
@@ -1830,7 +1830,7 @@
       "utcDate": "2026-06-29T17:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "Brazil",
@@ -1855,7 +1855,7 @@
       "utcDate": "2026-06-29T20:30Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "Germany",
@@ -1880,7 +1880,7 @@
       "utcDate": "2026-06-30T01:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "Group F Winner",
@@ -1905,7 +1905,7 @@
       "utcDate": "2026-06-30T17:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "Group E 2nd Place",
@@ -1930,7 +1930,7 @@
       "utcDate": "2026-06-30T21:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "Group I Winner",
@@ -1955,7 +1955,7 @@
       "utcDate": "2026-07-01T01:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "Mexico",
@@ -1980,7 +1980,7 @@
       "utcDate": "2026-07-01T16:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "Group L Winner",
@@ -2005,7 +2005,7 @@
       "utcDate": "2026-07-01T20:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "Group G Winner",
@@ -2030,7 +2030,7 @@
       "utcDate": "2026-07-02T00:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "United States",
@@ -2055,7 +2055,7 @@
       "utcDate": "2026-07-02T19:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "Group H Winner",
@@ -2080,7 +2080,7 @@
       "utcDate": "2026-07-02T23:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "Group K 2nd Place",
@@ -2105,7 +2105,7 @@
       "utcDate": "2026-07-03T03:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "Switzerland",
@@ -2130,7 +2130,7 @@
       "utcDate": "2026-07-03T18:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "Group D 2nd Place",
@@ -2155,7 +2155,7 @@
       "utcDate": "2026-07-03T22:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "Argentina",
@@ -2180,7 +2180,7 @@
       "utcDate": "2026-07-04T01:30Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
         "name": "Group K Winner",
@@ -2205,7 +2205,7 @@
       "utcDate": "2026-07-04T17:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
         "name": "Round of 32 1 Winner",
@@ -2230,7 +2230,7 @@
       "utcDate": "2026-07-04T21:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
         "name": "Round of 32 2 Winner",
@@ -2255,7 +2255,7 @@
       "utcDate": "2026-07-05T20:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
         "name": "Round of 32 4 Winner",
@@ -2280,7 +2280,7 @@
       "utcDate": "2026-07-06T00:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
         "name": "Round of 32 7 Winner",
@@ -2305,7 +2305,7 @@
       "utcDate": "2026-07-06T19:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
         "name": "Round of 32 11 Winner",
@@ -2330,7 +2330,7 @@
       "utcDate": "2026-07-07T00:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
         "name": "Round of 32 9 Winner",
@@ -2355,7 +2355,7 @@
       "utcDate": "2026-07-07T16:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
         "name": "Round of 32 14 Winner",
@@ -2380,7 +2380,7 @@
       "utcDate": "2026-07-07T20:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
         "name": "Round of 32 13 Winner",
@@ -2405,7 +2405,7 @@
       "utcDate": "2026-07-09T20:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "QUARTER_FINALS",
       "group": null,
       "homeTeam": {
         "name": "Round of 16 1 Winner",
@@ -2430,7 +2430,7 @@
       "utcDate": "2026-07-10T19:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "QUARTER_FINALS",
       "group": null,
       "homeTeam": {
         "name": "Round of 16 5 Winner",
@@ -2455,7 +2455,7 @@
       "utcDate": "2026-07-11T21:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "QUARTER_FINALS",
       "group": null,
       "homeTeam": {
         "name": "Round of 16 3 Winner",
@@ -2480,7 +2480,7 @@
       "utcDate": "2026-07-12T01:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "QUARTER_FINALS",
       "group": null,
       "homeTeam": {
         "name": "Round of 16 7 Winner",
@@ -2505,7 +2505,7 @@
       "utcDate": "2026-07-14T19:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "SEMI_FINALS",
       "group": null,
       "homeTeam": {
         "name": "Quarterfinal 1 Winner",
@@ -2530,7 +2530,7 @@
       "utcDate": "2026-07-15T19:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "SEMI_FINALS",
       "group": null,
       "homeTeam": {
         "name": "Quarterfinal 3 Winner",
@@ -2580,7 +2580,7 @@
       "utcDate": "2026-07-19T19:00Z",
       "status": "SCHEDULED",
       "matchday": null,
-      "stage": "GROUP_STAGE",
+      "stage": "FINAL",
       "group": null,
       "homeTeam": {
         "name": "Semifinal 1 Winner",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-25T17:32:11.122808+00:00",
+  "lastUpdated": "2026-06-25T20:09:25.969371+00:00",
   "source": "espn"
 }
