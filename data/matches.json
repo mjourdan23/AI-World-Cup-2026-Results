@@ -1403,7 +1403,7 @@
     {
       "id": "760471",
       "utcDate": "2026-06-25T23:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group F",
@@ -1419,8 +1419,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "venue": "AT&T Stadium, Arlington, Texas"
@@ -1428,7 +1428,7 @@
     {
       "id": "760472",
       "utcDate": "2026-06-25T23:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group F",
@@ -1444,8 +1444,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         }
       },
       "venue": "GEHA Field at Arrowhead Stadium, Kansas City, Missouri"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-25T22:05:40.373705+00:00",
+  "lastUpdated": "2026-06-25T23:54:07.876649+00:00",
   "source": "espn"
 }
