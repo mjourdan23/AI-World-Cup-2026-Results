@@ -269,13 +269,13 @@
             "name": "Germany",
             "tla": "GER"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 2,
           "draw": 0,
-          "lost": 0,
-          "goalsFor": 9,
-          "goalsAgainst": 2,
-          "goalDifference": 7,
+          "lost": 1,
+          "goalsFor": 10,
+          "goalsAgainst": 4,
+          "goalDifference": 6,
           "points": 6
         },
         {
@@ -284,14 +284,14 @@
             "name": "Ivory Coast",
             "tla": "CIV"
           },
-          "playedGames": 2,
-          "won": 1,
+          "playedGames": 3,
+          "won": 2,
           "draw": 0,
           "lost": 1,
-          "goalsFor": 2,
+          "goalsFor": 4,
           "goalsAgainst": 2,
-          "goalDifference": 0,
-          "points": 3
+          "goalDifference": 2,
+          "points": 6
         },
         {
           "position": 3,
@@ -299,14 +299,14 @@
             "name": "Ecuador",
             "tla": "ECU"
           },
-          "playedGames": 2,
-          "won": 0,
+          "playedGames": 3,
+          "won": 1,
           "draw": 1,
           "lost": 1,
-          "goalsFor": 0,
-          "goalsAgainst": 1,
-          "goalDifference": -1,
-          "points": 1
+          "goalsFor": 2,
+          "goalsAgainst": 2,
+          "goalDifference": 0,
+          "points": 4
         },
         {
           "position": 4,
@@ -314,13 +314,13 @@
             "name": "Curaçao",
             "tla": "CUW"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 0,
           "draw": 1,
-          "lost": 1,
+          "lost": 2,
           "goalsFor": 1,
-          "goalsAgainst": 7,
-          "goalDifference": -6,
+          "goalsAgainst": 9,
+          "goalDifference": -8,
           "points": 1
         }
       ]
@@ -781,6 +781,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-25T20:09:25.969371+00:00",
+  "lastUpdated": "2026-06-25T22:05:40.373705+00:00",
   "source": "espn"
 }

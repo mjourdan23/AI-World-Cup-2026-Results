@@ -1353,7 +1353,7 @@
     {
       "id": "760473",
       "utcDate": "2026-06-25T20:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group E",
@@ -1370,7 +1370,7 @@
       "score": {
         "fullTime": {
           "home": 0,
-          "away": 1
+          "away": 2
         }
       },
       "venue": "Lincoln Financial Field, Philadelphia, Pennsylvania"
@@ -1378,7 +1378,7 @@
     {
       "id": "760468",
       "utcDate": "2026-06-25T20:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group E",
@@ -1394,7 +1394,7 @@
       },
       "score": {
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 1
         }
       },
@@ -1908,9 +1908,9 @@
       "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
-        "name": "Group E 2nd Place",
-        "shortName": "2E",
-        "tla": "2E"
+        "name": "Ivory Coast",
+        "shortName": "Ivory Coast",
+        "tla": "CIV"
       },
       "awayTeam": {
         "name": "Group I 2nd Place",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-25T20:09:25.969371+00:00",
+  "lastUpdated": "2026-06-25T22:05:40.373705+00:00",
   "source": "espn"
 }
