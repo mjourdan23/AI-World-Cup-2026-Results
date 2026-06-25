@@ -1303,7 +1303,7 @@
     {
       "id": "760467",
       "utcDate": "2026-06-25T01:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group A",
@@ -1320,7 +1320,7 @@
       "score": {
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 3
         }
       },
       "venue": "Estadio Banorte, Mexico City"
@@ -1328,7 +1328,7 @@
     {
       "id": "760466",
       "utcDate": "2026-06-25T01:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group A",
@@ -1344,7 +1344,7 @@
       },
       "score": {
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         }
       },
@@ -1808,9 +1808,9 @@
       "stage": "GROUP_STAGE",
       "group": null,
       "homeTeam": {
-        "name": "Group A 2nd Place",
-        "shortName": "2A",
-        "tla": "2A"
+        "name": "South Africa",
+        "shortName": "South Africa",
+        "tla": "RSA"
       },
       "awayTeam": {
         "name": "Canada",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-25T01:32:43.364345+00:00",
+  "lastUpdated": "2026-06-25T06:13:52.533378+00:00",
   "source": "espn"
 }

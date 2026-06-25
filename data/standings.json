@@ -9,58 +9,58 @@
             "name": "Mexico",
             "tla": "MEX"
           },
-          "playedGames": 2,
-          "won": 2,
+          "playedGames": 3,
+          "won": 3,
           "draw": 0,
           "lost": 0,
-          "goalsFor": 3,
+          "goalsFor": 6,
           "goalsAgainst": 0,
-          "goalDifference": 3,
-          "points": 6
+          "goalDifference": 6,
+          "points": 9
         },
         {
           "position": 2,
           "team": {
-            "name": "South Korea",
-            "tla": "KOR"
+            "name": "South Africa",
+            "tla": "RSA"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 1,
-          "draw": 0,
-          "lost": 1,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
-          "goalDifference": 0,
-          "points": 3
-        },
-        {
-          "position": 3,
-          "team": {
-            "name": "Czechia",
-            "tla": "CZE"
-          },
-          "playedGames": 2,
-          "won": 0,
           "draw": 1,
           "lost": 1,
           "goalsFor": 2,
           "goalsAgainst": 3,
           "goalDifference": -1,
-          "points": 1
+          "points": 4
+        },
+        {
+          "position": 3,
+          "team": {
+            "name": "South Korea",
+            "tla": "KOR"
+          },
+          "playedGames": 3,
+          "won": 1,
+          "draw": 0,
+          "lost": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 3,
+          "goalDifference": -1,
+          "points": 3
         },
         {
           "position": 4,
           "team": {
-            "name": "South Africa",
-            "tla": "RSA"
+            "name": "Czechia",
+            "tla": "CZE"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 0,
           "draw": 1,
-          "lost": 1,
-          "goalsFor": 1,
-          "goalsAgainst": 3,
-          "goalDifference": -2,
+          "lost": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 6,
+          "goalDifference": -4,
           "points": 1
         }
       ]
@@ -781,6 +781,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-25T01:32:43.364345+00:00",
+  "lastUpdated": "2026-06-25T06:13:52.533378+00:00",
   "source": "espn"
 }
