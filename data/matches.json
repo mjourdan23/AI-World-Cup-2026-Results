@@ -1253,7 +1253,7 @@
     {
       "id": "760464",
       "utcDate": "2026-06-24T22:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group C",
@@ -1269,7 +1269,7 @@
       },
       "score": {
         "fullTime": {
-          "home": 2,
+          "home": 4,
           "away": 2
         }
       },
@@ -1278,7 +1278,7 @@
     {
       "id": "760465",
       "utcDate": "2026-06-24T22:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group C",
@@ -1295,7 +1295,7 @@
       "score": {
         "fullTime": {
           "home": 0,
-          "away": 2
+          "away": 3
         }
       },
       "venue": "Hard Rock Stadium, Miami Gardens, Florida"
@@ -1303,7 +1303,7 @@
     {
       "id": "760467",
       "utcDate": "2026-06-25T01:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group A",
@@ -1319,8 +1319,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "venue": "Estadio Banorte, Mexico City"
@@ -1328,7 +1328,7 @@
     {
       "id": "760466",
       "utcDate": "2026-06-25T01:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group A",
@@ -1344,8 +1344,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "venue": "Estadio BBVA, Guadalupe"
@@ -1833,9 +1833,9 @@
       "stage": "GROUP_STAGE",
       "group": null,
       "homeTeam": {
-        "name": "Group C Winner",
-        "shortName": "1C",
-        "tla": "1C"
+        "name": "Brazil",
+        "shortName": "Brazil",
+        "tla": "BRA"
       },
       "awayTeam": {
         "name": "Group F 2nd Place",
@@ -1888,9 +1888,9 @@
         "tla": "1F"
       },
       "awayTeam": {
-        "name": "Group C 2nd Place",
-        "shortName": "2C",
-        "tla": "2C"
+        "name": "Morocco",
+        "shortName": "Morocco",
+        "tla": "MAR"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-24T23:11:03.029147+00:00",
+  "lastUpdated": "2026-06-25T01:32:43.364345+00:00",
   "source": "espn"
 }
