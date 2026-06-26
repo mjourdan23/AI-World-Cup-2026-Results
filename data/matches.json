@@ -2133,9 +2133,9 @@
       "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
-        "name": "Group D 2nd Place",
-        "shortName": "2D",
-        "tla": "2D"
+        "name": "Australia",
+        "shortName": "Australia",
+        "tla": "AUS"
       },
       "awayTeam": {
         "name": "Group G 2nd Place",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-26T04:12:38.018269+00:00",
+  "lastUpdated": "2026-06-26T08:08:48.420480+00:00",
   "source": "espn"
 }
