@@ -1403,7 +1403,7 @@
     {
       "id": "760471",
       "utcDate": "2026-06-25T23:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group F",
@@ -1419,8 +1419,8 @@
       },
       "score": {
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         }
       },
       "venue": "AT&T Stadium, Arlington, Texas"
@@ -1428,7 +1428,7 @@
     {
       "id": "760472",
       "utcDate": "2026-06-25T23:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group F",
@@ -1444,8 +1444,8 @@
       },
       "score": {
         "fullTime": {
-          "home": 0,
-          "away": 2
+          "home": 1,
+          "away": 3
         }
       },
       "venue": "GEHA Field at Arrowhead Stadium, Kansas City, Missouri"
@@ -1453,7 +1453,7 @@
     {
       "id": "760469",
       "utcDate": "2026-06-26T02:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group D",
@@ -1469,8 +1469,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "venue": "Levi's Stadium, Santa Clara, California"
@@ -1478,7 +1478,7 @@
     {
       "id": "760470",
       "utcDate": "2026-06-26T02:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group D",
@@ -1494,8 +1494,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 2
         }
       },
       "venue": "SoFi Stadium, Inglewood, California"
@@ -1838,9 +1838,9 @@
         "tla": "BRA"
       },
       "awayTeam": {
-        "name": "Group F 2nd Place",
-        "shortName": "2F",
-        "tla": "2F"
+        "name": "Japan",
+        "shortName": "Japan",
+        "tla": "JPN"
       },
       "score": {
         "fullTime": {
@@ -1883,9 +1883,9 @@
       "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
-        "name": "Group F Winner",
-        "shortName": "1F",
-        "tla": "1F"
+        "name": "Netherlands",
+        "shortName": "Netherlands",
+        "tla": "NED"
       },
       "awayTeam": {
         "name": "Morocco",
@@ -2038,9 +2038,9 @@
         "tla": "USA"
       },
       "awayTeam": {
-        "name": "Third Place Group B/E/F/I/J",
-        "shortName": "3RD B/E/F/I/J",
-        "tla": "3RD"
+        "name": "Bosnia-Herzegovina",
+        "shortName": "Bosnia-Herz",
+        "tla": "BIH"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-25T23:54:07.876649+00:00",
+  "lastUpdated": "2026-06-26T04:12:38.018269+00:00",
   "source": "espn"
 }

@@ -204,13 +204,13 @@
             "name": "United States",
             "tla": "USA"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 2,
           "draw": 0,
-          "lost": 0,
-          "goalsFor": 6,
-          "goalsAgainst": 1,
-          "goalDifference": 5,
+          "lost": 1,
+          "goalsFor": 8,
+          "goalsAgainst": 4,
+          "goalDifference": 4,
           "points": 6
         },
         {
@@ -219,14 +219,14 @@
             "name": "Australia",
             "tla": "AUS"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 1,
           "goalsFor": 2,
           "goalsAgainst": 2,
           "goalDifference": 0,
-          "points": 3
+          "points": 4
         },
         {
           "position": 3,
@@ -234,14 +234,14 @@
             "name": "Paraguay",
             "tla": "PAR"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 1,
           "goalsFor": 2,
           "goalsAgainst": 4,
           "goalDifference": -2,
-          "points": 3
+          "points": 4
         },
         {
           "position": 4,
@@ -249,14 +249,14 @@
             "name": "Türkiye",
             "tla": "TUR"
           },
-          "playedGames": 2,
-          "won": 0,
+          "playedGames": 3,
+          "won": 1,
           "draw": 0,
           "lost": 2,
-          "goalsFor": 0,
-          "goalsAgainst": 3,
-          "goalDifference": -3,
-          "points": 0
+          "goalsFor": 3,
+          "goalsAgainst": 5,
+          "goalDifference": -2,
+          "points": 3
         }
       ]
     },
@@ -334,14 +334,14 @@
             "name": "Netherlands",
             "tla": "NED"
           },
-          "playedGames": 2,
-          "won": 1,
+          "playedGames": 3,
+          "won": 2,
           "draw": 1,
           "lost": 0,
-          "goalsFor": 7,
-          "goalsAgainst": 3,
-          "goalDifference": 4,
-          "points": 4
+          "goalsFor": 10,
+          "goalsAgainst": 4,
+          "goalDifference": 6,
+          "points": 7
         },
         {
           "position": 2,
@@ -349,14 +349,14 @@
             "name": "Japan",
             "tla": "JPN"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 1,
-          "draw": 1,
+          "draw": 2,
           "lost": 0,
-          "goalsFor": 6,
-          "goalsAgainst": 2,
+          "goalsFor": 7,
+          "goalsAgainst": 3,
           "goalDifference": 4,
-          "points": 4
+          "points": 5
         },
         {
           "position": 3,
@@ -364,14 +364,14 @@
             "name": "Sweden",
             "tla": "SWE"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 1,
-          "goalsFor": 6,
-          "goalsAgainst": 6,
+          "goalsFor": 7,
+          "goalsAgainst": 7,
           "goalDifference": 0,
-          "points": 3
+          "points": 4
         },
         {
           "position": 4,
@@ -379,13 +379,13 @@
             "name": "Tunisia",
             "tla": "TUN"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 0,
           "draw": 0,
-          "lost": 2,
-          "goalsFor": 1,
-          "goalsAgainst": 9,
-          "goalDifference": -8,
+          "lost": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 12,
+          "goalDifference": -10,
           "points": 0
         }
       ]
@@ -781,6 +781,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-25T23:54:07.876649+00:00",
+  "lastUpdated": "2026-06-26T04:12:38.018269+00:00",
   "source": "espn"
 }
