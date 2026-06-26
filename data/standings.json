@@ -529,14 +529,14 @@
             "name": "France",
             "tla": "FRA"
           },
-          "playedGames": 2,
-          "won": 2,
+          "playedGames": 3,
+          "won": 3,
           "draw": 0,
           "lost": 0,
-          "goalsFor": 6,
-          "goalsAgainst": 1,
-          "goalDifference": 5,
-          "points": 6
+          "goalsFor": 10,
+          "goalsAgainst": 2,
+          "goalDifference": 8,
+          "points": 9
         },
         {
           "position": 2,
@@ -544,13 +544,13 @@
             "name": "Norway",
             "tla": "NOR"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 2,
           "draw": 0,
-          "lost": 0,
-          "goalsFor": 7,
-          "goalsAgainst": 3,
-          "goalDifference": 4,
+          "lost": 1,
+          "goalsFor": 8,
+          "goalsAgainst": 7,
+          "goalDifference": 1,
           "points": 6
         },
         {
@@ -559,14 +559,14 @@
             "name": "Senegal",
             "tla": "SEN"
           },
-          "playedGames": 2,
-          "won": 0,
+          "playedGames": 3,
+          "won": 1,
           "draw": 0,
           "lost": 2,
-          "goalsFor": 3,
+          "goalsFor": 8,
           "goalsAgainst": 6,
-          "goalDifference": -3,
-          "points": 0
+          "goalDifference": 2,
+          "points": 3
         },
         {
           "position": 4,
@@ -574,13 +574,13 @@
             "name": "Iraq",
             "tla": "IRQ"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 0,
           "draw": 0,
-          "lost": 2,
+          "lost": 3,
           "goalsFor": 1,
-          "goalsAgainst": 7,
-          "goalDifference": -6,
+          "goalsAgainst": 12,
+          "goalDifference": -11,
           "points": 0
         }
       ]
@@ -781,6 +781,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-26T20:18:56.808194+00:00",
+  "lastUpdated": "2026-06-26T21:48:41.416218+00:00",
   "source": "espn"
 }

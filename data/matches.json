@@ -1503,7 +1503,7 @@
     {
       "id": "760475",
       "utcDate": "2026-06-26T19:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group I",
@@ -1520,7 +1520,7 @@
       "score": {
         "fullTime": {
           "home": 1,
-          "away": 3
+          "away": 4
         }
       },
       "venue": "Gillette Stadium, Foxborough, Massachusetts"
@@ -1528,7 +1528,7 @@
     {
       "id": "760474",
       "utcDate": "2026-06-26T19:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group I",
@@ -1544,7 +1544,7 @@
       },
       "score": {
         "fullTime": {
-          "home": 1,
+          "home": 5,
           "away": 0
         }
       },
@@ -1913,9 +1913,9 @@
         "tla": "CIV"
       },
       "awayTeam": {
-        "name": "Group I 2nd Place",
-        "shortName": "2I",
-        "tla": "2I"
+        "name": "Norway",
+        "shortName": "Norway",
+        "tla": "NOR"
       },
       "score": {
         "fullTime": {
@@ -1933,9 +1933,9 @@
       "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
-        "name": "Group I Winner",
-        "shortName": "1I",
-        "tla": "1I"
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA"
       },
       "awayTeam": {
         "name": "Third Place Group C/D/F/G/H",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-26T20:18:56.808194+00:00",
+  "lastUpdated": "2026-06-26T21:48:41.416218+00:00",
   "source": "espn"
 }
