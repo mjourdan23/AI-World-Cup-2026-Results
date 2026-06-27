@@ -1553,7 +1553,7 @@
     {
       "id": "760478",
       "utcDate": "2026-06-27T00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group H",
@@ -1578,7 +1578,7 @@
     {
       "id": "760479",
       "utcDate": "2026-06-27T00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group H",
@@ -1603,7 +1603,7 @@
     {
       "id": "760476",
       "utcDate": "2026-06-27T03:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group G",
@@ -1619,8 +1619,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "venue": "Lumen Field, Seattle, Washington"
@@ -1628,7 +1628,7 @@
     {
       "id": "760477",
       "utcDate": "2026-06-27T03:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group G",
@@ -1644,8 +1644,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 5
         }
       },
       "venue": "BC Place, Vancouver"
@@ -1863,9 +1863,9 @@
         "tla": "GER"
       },
       "awayTeam": {
-        "name": "Third Place Group A/B/C/D/F",
-        "shortName": "3RD A/B/C/D/F",
-        "tla": "3RD"
+        "name": "Paraguay",
+        "shortName": "Paraguay",
+        "tla": "PAR"
       },
       "score": {
         "fullTime": {
@@ -1938,9 +1938,9 @@
         "tla": "FRA"
       },
       "awayTeam": {
-        "name": "Third Place Group C/D/F/G/H",
-        "shortName": "3RD C/D/F/G/H",
-        "tla": "3RD"
+        "name": "Sweden",
+        "shortName": "Sweden",
+        "tla": "SWE"
       },
       "score": {
         "fullTime": {
@@ -2008,9 +2008,9 @@
       "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
-        "name": "Group G Winner",
-        "shortName": "1G",
-        "tla": "1G"
+        "name": "Belgium",
+        "shortName": "Belgium",
+        "tla": "BEL"
       },
       "awayTeam": {
         "name": "Third Place Group A/E/H/I/J",
@@ -2058,9 +2058,9 @@
       "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
-        "name": "Group H Winner",
-        "shortName": "1H",
-        "tla": "1H"
+        "name": "Spain",
+        "shortName": "Spain",
+        "tla": "ESP"
       },
       "awayTeam": {
         "name": "Group J 2nd Place",
@@ -2138,9 +2138,9 @@
         "tla": "AUS"
       },
       "awayTeam": {
-        "name": "Group G 2nd Place",
-        "shortName": "2G",
-        "tla": "2G"
+        "name": "Egypt",
+        "shortName": "Egypt",
+        "tla": "EGY"
       },
       "score": {
         "fullTime": {
@@ -2163,9 +2163,9 @@
         "tla": "ARG"
       },
       "awayTeam": {
-        "name": "Group H 2nd Place",
-        "shortName": "2H",
-        "tla": "2H"
+        "name": "Cape Verde",
+        "shortName": "Cape Verde",
+        "tla": "CPV"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-27T01:29:30.464275+00:00",
+  "lastUpdated": "2026-06-27T05:33:44.368677+00:00",
   "source": "espn"
 }

@@ -396,47 +396,47 @@
         {
           "position": 1,
           "team": {
-            "name": "Egypt",
-            "tla": "EGY"
+            "name": "Belgium",
+            "tla": "BEL"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 1,
-          "draw": 1,
+          "draw": 2,
           "lost": 0,
-          "goalsFor": 4,
+          "goalsFor": 6,
           "goalsAgainst": 2,
-          "goalDifference": 2,
-          "points": 4
+          "goalDifference": 4,
+          "points": 5
         },
         {
           "position": 2,
           "team": {
-            "name": "Iran",
-            "tla": "IRN"
+            "name": "Egypt",
+            "tla": "EGY"
           },
-          "playedGames": 2,
-          "won": 0,
+          "playedGames": 3,
+          "won": 1,
           "draw": 2,
           "lost": 0,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
-          "goalDifference": 0,
-          "points": 2
+          "goalsFor": 5,
+          "goalsAgainst": 3,
+          "goalDifference": 2,
+          "points": 5
         },
         {
           "position": 3,
           "team": {
-            "name": "Belgium",
-            "tla": "BEL"
+            "name": "Iran",
+            "tla": "IRN"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 0,
-          "draw": 2,
+          "draw": 3,
           "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 3,
           "goalDifference": 0,
-          "points": 2
+          "points": 3
         },
         {
           "position": 4,
@@ -444,13 +444,13 @@
             "name": "New Zealand",
             "tla": "NZL"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 0,
           "draw": 1,
-          "lost": 1,
-          "goalsFor": 3,
-          "goalsAgainst": 5,
-          "goalDifference": -2,
+          "lost": 2,
+          "goalsFor": 4,
+          "goalsAgainst": 10,
+          "goalDifference": -6,
           "points": 1
         }
       ]
@@ -464,43 +464,43 @@
             "name": "Spain",
             "tla": "ESP"
           },
-          "playedGames": 2,
-          "won": 1,
+          "playedGames": 3,
+          "won": 2,
           "draw": 1,
           "lost": 0,
-          "goalsFor": 4,
+          "goalsFor": 5,
           "goalsAgainst": 0,
-          "goalDifference": 4,
-          "points": 4
+          "goalDifference": 5,
+          "points": 7
         },
         {
           "position": 2,
           "team": {
-            "name": "Uruguay",
-            "tla": "URU"
-          },
-          "playedGames": 2,
-          "won": 0,
-          "draw": 2,
-          "lost": 0,
-          "goalsFor": 3,
-          "goalsAgainst": 3,
-          "goalDifference": 0,
-          "points": 2
-        },
-        {
-          "position": 3,
-          "team": {
             "name": "Cape Verde",
             "tla": "CPV"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 0,
-          "draw": 2,
+          "draw": 3,
           "lost": 0,
           "goalsFor": 2,
           "goalsAgainst": 2,
           "goalDifference": 0,
+          "points": 3
+        },
+        {
+          "position": 3,
+          "team": {
+            "name": "Uruguay",
+            "tla": "URU"
+          },
+          "playedGames": 3,
+          "won": 0,
+          "draw": 2,
+          "lost": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 4,
+          "goalDifference": -1,
           "points": 2
         },
         {
@@ -509,14 +509,14 @@
             "name": "Saudi Arabia",
             "tla": "KSA"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 0,
-          "draw": 1,
+          "draw": 2,
           "lost": 1,
           "goalsFor": 1,
           "goalsAgainst": 5,
           "goalDifference": -4,
-          "points": 1
+          "points": 2
         }
       ]
     },
@@ -781,6 +781,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-27T01:29:30.464275+00:00",
+  "lastUpdated": "2026-06-27T05:33:44.368677+00:00",
   "source": "espn"
 }
