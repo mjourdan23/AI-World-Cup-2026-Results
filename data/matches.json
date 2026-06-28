@@ -1653,7 +1653,7 @@
     {
       "id": "760480",
       "utcDate": "2026-06-27T21:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group L",
@@ -1669,8 +1669,8 @@
       },
       "score": {
         "fullTime": {
-          "home": 1,
-          "away": 0
+          "home": 2,
+          "away": 1
         }
       },
       "venue": "Lincoln Financial Field, Philadelphia, Pennsylvania"
@@ -1678,7 +1678,7 @@
     {
       "id": "760485",
       "utcDate": "2026-06-27T21:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group L",
@@ -1703,7 +1703,7 @@
     {
       "id": "760481",
       "utcDate": "2026-06-27T23:30Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group K",
@@ -1719,8 +1719,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "venue": "Hard Rock Stadium, Miami Gardens, Florida"
@@ -1728,7 +1728,7 @@
     {
       "id": "760482",
       "utcDate": "2026-06-27T23:30Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group K",
@@ -1744,8 +1744,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "venue": "Mercedes-Benz Stadium, Atlanta, Georgia"
@@ -1963,9 +1963,9 @@
         "tla": "MEX"
       },
       "awayTeam": {
-        "name": "Third Place Group C/E/F/H/I",
-        "shortName": "3RD C/E/F/H/I",
-        "tla": "3RD"
+        "name": "Ecuador",
+        "shortName": "Ecuador",
+        "tla": "ECU"
       },
       "score": {
         "fullTime": {
@@ -1983,9 +1983,9 @@
       "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
-        "name": "Group L Winner",
-        "shortName": "1L",
-        "tla": "1L"
+        "name": "England",
+        "shortName": "England",
+        "tla": "ENG"
       },
       "awayTeam": {
         "name": "Third Place Group E/H/I/J/K",
@@ -2088,9 +2088,9 @@
         "tla": "2K"
       },
       "awayTeam": {
-        "name": "Group L 2nd Place",
-        "shortName": "2L",
-        "tla": "2L"
+        "name": "Croatia",
+        "shortName": "Croatia",
+        "tla": "CRO"
       },
       "score": {
         "fullTime": {
@@ -2188,9 +2188,9 @@
         "tla": "1K"
       },
       "awayTeam": {
-        "name": "Third Place Group D/E/I/J/L",
-        "shortName": "3RD D/E/I/J/L",
-        "tla": "3RD"
+        "name": "Ghana",
+        "shortName": "Ghana",
+        "tla": "GHA"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-27T22:37:59.389470+00:00",
+  "lastUpdated": "2026-06-28T00:07:45.481321+00:00",
   "source": "espn"
 }
