@@ -1803,7 +1803,7 @@
     {
       "id": "760486",
       "utcDate": "2026-06-28T19:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -1820,7 +1820,7 @@
       "score": {
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         }
       },
       "venue": "SoFi Stadium, Inglewood, California"
@@ -2208,9 +2208,9 @@
       "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
-        "name": "Round of 32 1 Winner",
-        "shortName": "RD32 W1",
-        "tla": "RD32"
+        "name": "Canada",
+        "shortName": "Canada",
+        "tla": "CAN"
       },
       "awayTeam": {
         "name": "Round of 32 3 Winner",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-28T19:38:30.214421+00:00",
+  "lastUpdated": "2026-06-28T21:09:23.711363+00:00",
   "source": "espn"
 }
