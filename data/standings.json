@@ -594,14 +594,14 @@
             "name": "Argentina",
             "tla": "ARG"
           },
-          "playedGames": 2,
-          "won": 2,
+          "playedGames": 3,
+          "won": 3,
           "draw": 0,
           "lost": 0,
-          "goalsFor": 5,
-          "goalsAgainst": 0,
-          "goalDifference": 5,
-          "points": 6
+          "goalsFor": 8,
+          "goalsAgainst": 1,
+          "goalDifference": 7,
+          "points": 9
         },
         {
           "position": 2,
@@ -609,14 +609,14 @@
             "name": "Austria",
             "tla": "AUT"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 1,
-          "goalsFor": 3,
-          "goalsAgainst": 3,
+          "goalsFor": 6,
+          "goalsAgainst": 6,
           "goalDifference": 0,
-          "points": 3
+          "points": 4
         },
         {
           "position": 3,
@@ -624,14 +624,14 @@
             "name": "Algeria",
             "tla": "ALG"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 1,
-          "goalsFor": 2,
-          "goalsAgainst": 4,
+          "goalsFor": 5,
+          "goalsAgainst": 7,
           "goalDifference": -2,
-          "points": 3
+          "points": 4
         },
         {
           "position": 4,
@@ -639,13 +639,13 @@
             "name": "Jordan",
             "tla": "JOR"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 0,
           "draw": 0,
-          "lost": 2,
-          "goalsFor": 2,
-          "goalsAgainst": 5,
-          "goalDifference": -3,
+          "lost": 3,
+          "goalsFor": 3,
+          "goalsAgainst": 8,
+          "goalDifference": -5,
           "points": 0
         }
       ]
@@ -659,14 +659,14 @@
             "name": "Colombia",
             "tla": "COL"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 2,
-          "draw": 0,
+          "draw": 1,
           "lost": 0,
           "goalsFor": 4,
           "goalsAgainst": 1,
           "goalDifference": 3,
-          "points": 6
+          "points": 7
         },
         {
           "position": 2,
@@ -674,14 +674,14 @@
             "name": "Portugal",
             "tla": "POR"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 1,
-          "draw": 1,
+          "draw": 2,
           "lost": 0,
           "goalsFor": 6,
           "goalsAgainst": 1,
           "goalDifference": 5,
-          "points": 4
+          "points": 5
         },
         {
           "position": 3,
@@ -689,14 +689,14 @@
             "name": "Congo DR",
             "tla": "COD"
           },
-          "playedGames": 2,
-          "won": 0,
+          "playedGames": 3,
+          "won": 1,
           "draw": 1,
           "lost": 1,
-          "goalsFor": 1,
-          "goalsAgainst": 2,
-          "goalDifference": -1,
-          "points": 1
+          "goalsFor": 4,
+          "goalsAgainst": 3,
+          "goalDifference": 1,
+          "points": 4
         },
         {
           "position": 4,
@@ -704,13 +704,13 @@
             "name": "Uzbekistan",
             "tla": "UZB"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "won": 0,
           "draw": 0,
-          "lost": 2,
-          "goalsFor": 1,
-          "goalsAgainst": 8,
-          "goalDifference": -7,
+          "lost": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 11,
+          "goalDifference": -9,
           "points": 0
         }
       ]
@@ -781,6 +781,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-28T00:07:45.481321+00:00",
+  "lastUpdated": "2026-06-28T05:04:24.670010+00:00",
   "source": "espn"
 }

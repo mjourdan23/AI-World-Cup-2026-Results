@@ -1703,7 +1703,7 @@
     {
       "id": "760481",
       "utcDate": "2026-06-27T23:30Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group K",
@@ -1728,7 +1728,7 @@
     {
       "id": "760482",
       "utcDate": "2026-06-27T23:30Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group K",
@@ -1744,7 +1744,7 @@
       },
       "score": {
         "fullTime": {
-          "home": 0,
+          "home": 3,
           "away": 1
         }
       },
@@ -1753,7 +1753,7 @@
     {
       "id": "760484",
       "utcDate": "2026-06-28T02:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group J",
@@ -1769,8 +1769,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 3
         }
       },
       "venue": "GEHA Field at Arrowhead Stadium, Kansas City, Missouri"
@@ -1778,7 +1778,7 @@
     {
       "id": "760483",
       "utcDate": "2026-06-28T02:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "GROUP_STAGE",
       "group": "FIFA World Cup, Group J",
@@ -1794,8 +1794,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 3
         }
       },
       "venue": "AT&T Stadium, Arlington, Texas"
@@ -1988,9 +1988,9 @@
         "tla": "ENG"
       },
       "awayTeam": {
-        "name": "Third Place Group E/H/I/J/K",
-        "shortName": "3RD E/H/I/J/K",
-        "tla": "3RD"
+        "name": "Congo DR",
+        "shortName": "Congo DR",
+        "tla": "COD"
       },
       "score": {
         "fullTime": {
@@ -2013,9 +2013,9 @@
         "tla": "BEL"
       },
       "awayTeam": {
-        "name": "Third Place Group A/E/H/I/J",
-        "shortName": "3RD A/E/H/I/J",
-        "tla": "3RD"
+        "name": "Senegal",
+        "shortName": "Senegal",
+        "tla": "SEN"
       },
       "score": {
         "fullTime": {
@@ -2063,9 +2063,9 @@
         "tla": "ESP"
       },
       "awayTeam": {
-        "name": "Group J 2nd Place",
-        "shortName": "2J",
-        "tla": "2J"
+        "name": "Austria",
+        "shortName": "Austria",
+        "tla": "AUT"
       },
       "score": {
         "fullTime": {
@@ -2083,9 +2083,9 @@
       "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
-        "name": "Group K 2nd Place",
-        "shortName": "2K",
-        "tla": "2K"
+        "name": "Portugal",
+        "shortName": "Portugal",
+        "tla": "POR"
       },
       "awayTeam": {
         "name": "Croatia",
@@ -2113,9 +2113,9 @@
         "tla": "SUI"
       },
       "awayTeam": {
-        "name": "Third Place Group E/F/G/I/J",
-        "shortName": "3RD E/F/G/I/J",
-        "tla": "3RD"
+        "name": "Algeria",
+        "shortName": "Algeria",
+        "tla": "ALG"
       },
       "score": {
         "fullTime": {
@@ -2183,9 +2183,9 @@
       "stage": "ROUND_OF_32",
       "group": null,
       "homeTeam": {
-        "name": "Group K Winner",
-        "shortName": "1K",
-        "tla": "1K"
+        "name": "Colombia",
+        "shortName": "Colombia",
+        "tla": "COL"
       },
       "awayTeam": {
         "name": "Ghana",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-28T00:07:45.481321+00:00",
+  "lastUpdated": "2026-06-28T05:04:24.670010+00:00",
   "source": "espn"
 }
