@@ -1828,7 +1828,7 @@
     {
       "id": "760487",
       "utcDate": "2026-06-29T17:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -1844,7 +1844,7 @@
       },
       "score": {
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 1
         }
       },
@@ -2258,9 +2258,9 @@
       "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
-        "name": "Round of 32 4 Winner",
-        "shortName": "RD32 W4",
-        "tla": "RD32"
+        "name": "Brazil",
+        "shortName": "Brazil",
+        "tla": "BRA"
       },
       "awayTeam": {
         "name": "Round of 32 6 Winner",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-29T17:43:04.838237+00:00",
+  "lastUpdated": "2026-06-29T20:06:52.164785+00:00",
   "source": "espn"
 }
