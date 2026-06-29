@@ -1828,7 +1828,7 @@
     {
       "id": "760487",
       "utcDate": "2026-06-29T17:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -1844,8 +1844,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "venue": "NRG Stadium, Houston, Texas"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-29T14:35:20.543137+00:00",
+  "lastUpdated": "2026-06-29T17:43:04.838237+00:00",
   "source": "espn"
 }
