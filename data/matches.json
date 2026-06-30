@@ -1853,7 +1853,7 @@
     {
       "id": "760489",
       "utcDate": "2026-06-29T20:30Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -2233,9 +2233,9 @@
       "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
-        "name": "Round of 32 2 Winner",
-        "shortName": "RD32 W2",
-        "tla": "RD32"
+        "name": "Paraguay",
+        "shortName": "Paraguay",
+        "tla": "PAR"
       },
       "awayTeam": {
         "name": "Round of 32 5 Winner",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-29T23:03:00.527254+00:00",
+  "lastUpdated": "2026-06-30T01:31:37.402158+00:00",
   "source": "espn"
 }
