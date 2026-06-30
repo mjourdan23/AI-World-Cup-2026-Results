@@ -1878,7 +1878,7 @@
     {
       "id": "760488",
       "utcDate": "2026-06-30T01:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -1894,8 +1894,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "venue": "Estadio BBVA, Guadalupe"
@@ -2213,9 +2213,9 @@
         "tla": "CAN"
       },
       "awayTeam": {
-        "name": "Round of 32 3 Winner",
-        "shortName": "RD32 W3",
-        "tla": "RD32"
+        "name": "Morocco",
+        "shortName": "Morocco",
+        "tla": "MAR"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-30T01:31:37.402158+00:00",
+  "lastUpdated": "2026-06-30T06:18:32.400526+00:00",
   "source": "espn"
 }
