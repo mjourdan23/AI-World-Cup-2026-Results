@@ -1903,7 +1903,7 @@
     {
       "id": "760490",
       "utcDate": "2026-06-30T17:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -1919,8 +1919,8 @@
       },
       "score": {
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 2
         }
       },
       "venue": "AT&T Stadium, Arlington, Texas"
@@ -2263,9 +2263,9 @@
         "tla": "BRA"
       },
       "awayTeam": {
-        "name": "Round of 32 6 Winner",
-        "shortName": "RD32 W6",
-        "tla": "RD32"
+        "name": "Norway",
+        "shortName": "Norway",
+        "tla": "NOR"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-30T17:25:08.364238+00:00",
+  "lastUpdated": "2026-06-30T19:20:56.964258+00:00",
   "source": "espn"
 }
