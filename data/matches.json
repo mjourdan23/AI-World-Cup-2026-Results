@@ -1952,8 +1952,8 @@
     },
     {
       "id": "760491",
-      "utcDate": "2026-07-01T01:00Z",
-      "status": "SCHEDULED",
+      "utcDate": "2026-07-01T02:00Z",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -1969,8 +1969,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "venue": "Estadio Banorte, Mexico City"
@@ -2283,9 +2283,9 @@
       "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
-        "name": "Round of 32 7 Winner",
-        "shortName": "RD32 W7",
-        "tla": "RD32"
+        "name": "Mexico",
+        "shortName": "Mexico",
+        "tla": "MEX"
       },
       "awayTeam": {
         "name": "Round of 32 8 Winner",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-01T00:13:06.766857+00:00",
+  "lastUpdated": "2026-07-01T05:07:27.823768+00:00",
   "source": "espn"
 }
