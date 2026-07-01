@@ -2003,7 +2003,7 @@
     {
       "id": "760493",
       "utcDate": "2026-07-01T20:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -2019,8 +2019,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "venue": "Lumen Field, Seattle, Washington"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-01T19:21:51.279241+00:00",
+  "lastUpdated": "2026-07-01T21:10:23.675974+00:00",
   "source": "espn"
 }
