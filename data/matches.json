@@ -2019,8 +2019,8 @@
       },
       "score": {
         "fullTime": {
-          "home": 0,
-          "away": 1
+          "home": 3,
+          "away": 2
         }
       },
       "venue": "Lumen Field, Seattle, Washington"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-01T21:10:23.675974+00:00",
+  "lastUpdated": "2026-07-01T22:48:55.328152+00:00",
   "source": "espn"
 }
