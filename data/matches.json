@@ -1928,7 +1928,7 @@
     {
       "id": "760492",
       "utcDate": "2026-06-30T21:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -2238,9 +2238,9 @@
         "tla": "PAR"
       },
       "awayTeam": {
-        "name": "Round of 32 5 Winner",
-        "shortName": "RD32 W5",
-        "tla": "RD32"
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-06-30T22:51:41.664746+00:00",
+  "lastUpdated": "2026-07-01T00:13:06.766857+00:00",
   "source": "espn"
 }
