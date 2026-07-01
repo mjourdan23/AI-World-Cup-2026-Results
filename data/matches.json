@@ -1978,7 +1978,7 @@
     {
       "id": "760495",
       "utcDate": "2026-07-01T16:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -1994,7 +1994,7 @@
       },
       "score": {
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 1
         }
       },
@@ -2288,9 +2288,9 @@
         "tla": "MEX"
       },
       "awayTeam": {
-        "name": "Round of 32 8 Winner",
-        "shortName": "RD32 W8",
-        "tla": "RD32"
+        "name": "England",
+        "shortName": "England",
+        "tla": "ENG"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-01T17:30:02.700070+00:00",
+  "lastUpdated": "2026-07-01T19:21:51.279241+00:00",
   "source": "espn"
 }
