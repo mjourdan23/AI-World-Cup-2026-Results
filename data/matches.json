@@ -2028,7 +2028,7 @@
     {
       "id": "760494",
       "utcDate": "2026-07-02T00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -2044,7 +2044,7 @@
       },
       "score": {
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         }
       },
@@ -2333,9 +2333,9 @@
       "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
-        "name": "Round of 32 9 Winner",
-        "shortName": "RD32 W9",
-        "tla": "RD32"
+        "name": "United States",
+        "shortName": "USA",
+        "tla": "USA"
       },
       "awayTeam": {
         "name": "Belgium",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-02T00:14:30.860383+00:00",
+  "lastUpdated": "2026-07-02T04:42:23.408129+00:00",
   "source": "espn"
 }
