@@ -2003,7 +2003,7 @@
     {
       "id": "760493",
       "utcDate": "2026-07-01T20:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -2028,7 +2028,7 @@
     {
       "id": "760494",
       "utcDate": "2026-07-02T00:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -2044,8 +2044,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "venue": "Levi's Stadium, Santa Clara, California"
@@ -2338,9 +2338,9 @@
         "tla": "RD32"
       },
       "awayTeam": {
-        "name": "Round of 32 10 Winner",
-        "shortName": "RD32 W10",
-        "tla": "RD32"
+        "name": "Belgium",
+        "shortName": "Belgium",
+        "tla": "BEL"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-01T22:48:55.328152+00:00",
+  "lastUpdated": "2026-07-02T00:14:30.860383+00:00",
   "source": "espn"
 }
