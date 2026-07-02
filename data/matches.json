@@ -2053,7 +2053,7 @@
     {
       "id": "760497",
       "utcDate": "2026-07-02T19:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -2069,8 +2069,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "venue": "SoFi Stadium, Inglewood, California"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-02T17:55:56.401555+00:00",
+  "lastUpdated": "2026-07-02T19:43:43.581474+00:00",
   "source": "espn"
 }
