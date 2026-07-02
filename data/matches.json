@@ -2053,7 +2053,7 @@
     {
       "id": "760497",
       "utcDate": "2026-07-02T19:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -2069,7 +2069,7 @@
       },
       "score": {
         "fullTime": {
-          "home": 1,
+          "home": 3,
           "away": 0
         }
       },
@@ -2313,9 +2313,9 @@
         "tla": "RD32"
       },
       "awayTeam": {
-        "name": "Round of 32 12 Winner",
-        "shortName": "RD32 W12",
-        "tla": "RD32"
+        "name": "Spain",
+        "shortName": "Spain",
+        "tla": "ESP"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-02T19:43:43.581474+00:00",
+  "lastUpdated": "2026-07-02T21:15:06.346720+00:00",
   "source": "espn"
 }
