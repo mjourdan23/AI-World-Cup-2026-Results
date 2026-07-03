@@ -2103,7 +2103,7 @@
     {
       "id": "760498",
       "utcDate": "2026-07-03T03:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -2383,9 +2383,9 @@
       "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
-        "name": "Round of 32 13 Winner",
-        "shortName": "RD32 W13",
-        "tla": "RD32"
+        "name": "Switzerland",
+        "shortName": "Switzerland",
+        "tla": "SUI"
       },
       "awayTeam": {
         "name": "Round of 32 15 Winner",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-03T04:26:50.517002+00:00",
+  "lastUpdated": "2026-07-03T07:47:30.995961+00:00",
   "source": "espn"
 }
