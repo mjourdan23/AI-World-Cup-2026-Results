@@ -2128,7 +2128,7 @@
     {
       "id": "760499",
       "utcDate": "2026-07-03T18:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -2363,9 +2363,9 @@
         "tla": "RD32"
       },
       "awayTeam": {
-        "name": "Round of 32 16 Winner",
-        "shortName": "RD32 W16",
-        "tla": "RD32"
+        "name": "Egypt",
+        "shortName": "Egypt",
+        "tla": "EGY"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-03T19:37:49.861774+00:00",
+  "lastUpdated": "2026-07-03T21:13:41.801098+00:00",
   "source": "espn"
 }
