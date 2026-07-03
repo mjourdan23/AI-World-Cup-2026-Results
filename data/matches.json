@@ -2078,7 +2078,7 @@
     {
       "id": "760496",
       "utcDate": "2026-07-02T23:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -2094,8 +2094,8 @@
       },
       "score": {
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 2,
+          "away": 1
         }
       },
       "venue": "BMO Field, Toronto"
@@ -2103,7 +2103,7 @@
     {
       "id": "760498",
       "utcDate": "2026-07-03T03:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -2119,8 +2119,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "venue": "BC Place, Vancouver"
@@ -2308,9 +2308,9 @@
       "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
-        "name": "Round of 32 11 Winner",
-        "shortName": "RD32 W11",
-        "tla": "RD32"
+        "name": "Portugal",
+        "shortName": "Portugal",
+        "tla": "POR"
       },
       "awayTeam": {
         "name": "Spain",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-03T00:11:44.060218+00:00",
+  "lastUpdated": "2026-07-03T04:26:50.517002+00:00",
   "source": "espn"
 }
