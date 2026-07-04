@@ -2153,7 +2153,7 @@
     {
       "id": "760500",
       "utcDate": "2026-07-03T22:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -2169,8 +2169,8 @@
       },
       "score": {
         "fullTime": {
-          "home": 2,
-          "away": 1
+          "home": 3,
+          "away": 2
         }
       },
       "venue": "Hard Rock Stadium, Miami Gardens, Florida"
@@ -2178,7 +2178,7 @@
     {
       "id": "760501",
       "utcDate": "2026-07-04T01:30Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_32",
       "group": null,
@@ -2194,8 +2194,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "venue": "GEHA Field at Arrowhead Stadium, Kansas City, Missouri"
@@ -2358,9 +2358,9 @@
       "stage": "ROUND_OF_16",
       "group": null,
       "homeTeam": {
-        "name": "Round of 32 14 Winner",
-        "shortName": "RD32 W14",
-        "tla": "RD32"
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "tla": "ARG"
       },
       "awayTeam": {
         "name": "Egypt",
@@ -2388,9 +2388,9 @@
         "tla": "SUI"
       },
       "awayTeam": {
-        "name": "Round of 32 15 Winner",
-        "shortName": "RD32 W15",
-        "tla": "RD32"
+        "name": "Colombia",
+        "shortName": "Colombia",
+        "tla": "COL"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-04T00:10:08.419036+00:00",
+  "lastUpdated": "2026-07-04T04:21:05.145004+00:00",
   "source": "espn"
 }
