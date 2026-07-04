@@ -2228,7 +2228,7 @@
     {
       "id": "760503",
       "utcDate": "2026-07-04T21:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
@@ -2244,8 +2244,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "venue": "Lincoln Financial Field, Philadelphia, Pennsylvania"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-04T21:04:18.654620+00:00",
+  "lastUpdated": "2026-07-04T22:29:58.418281+00:00",
   "source": "espn"
 }
