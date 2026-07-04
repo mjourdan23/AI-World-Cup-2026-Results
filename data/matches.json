@@ -2203,7 +2203,7 @@
     {
       "id": "760502",
       "utcDate": "2026-07-04T17:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
@@ -2220,7 +2220,7 @@
       "score": {
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 3
         }
       },
       "venue": "NRG Stadium, Houston, Texas"
@@ -2413,9 +2413,9 @@
         "tla": "RD16 W1"
       },
       "awayTeam": {
-        "name": "Round of 16 2 Winner",
-        "shortName": "RD16 W2",
-        "tla": "RD16 W2"
+        "name": "Morocco",
+        "shortName": "Morocco",
+        "tla": "MAR"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-04T18:05:48.627293+00:00",
+  "lastUpdated": "2026-07-04T19:46:03.075589+00:00",
   "source": "espn"
 }
