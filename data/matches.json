@@ -2253,7 +2253,7 @@
     {
       "id": "760504",
       "utcDate": "2026-07-05T20:00Z",
-      "status": "FINISHED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
@@ -2269,8 +2269,8 @@
       },
       "score": {
         "fullTime": {
-          "home": 1,
-          "away": 2
+          "home": 0,
+          "away": 0
         }
       },
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
@@ -2458,9 +2458,9 @@
       "stage": "QUARTER_FINALS",
       "group": null,
       "homeTeam": {
-        "name": "Norway",
-        "shortName": "Norway",
-        "tla": "NOR"
+        "name": "Round of 16 3 Winner",
+        "shortName": "RD16 W3",
+        "tla": "RD16 W3"
       },
       "awayTeam": {
         "name": "Round of 16 4 Winner",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-05T22:31:57.868282+00:00",
+  "lastUpdated": "2026-07-06T00:12:21.878629+00:00",
   "source": "espn"
 }
