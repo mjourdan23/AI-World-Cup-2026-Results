@@ -2303,7 +2303,7 @@
     {
       "id": "760506",
       "utcDate": "2026-07-06T19:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
@@ -2433,9 +2433,9 @@
       "stage": "QUARTER_FINALS",
       "group": null,
       "homeTeam": {
-        "name": "Round of 16 5 Winner",
-        "shortName": "RD16 W5",
-        "tla": "RD16 W5"
+        "name": "Spain",
+        "shortName": "Spain",
+        "tla": "ESP"
       },
       "awayTeam": {
         "name": "Round of 16 6 Winner",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-06T20:57:27.751066+00:00",
+  "lastUpdated": "2026-07-06T22:21:16.363749+00:00",
   "source": "espn"
 }
