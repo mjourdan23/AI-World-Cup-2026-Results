@@ -2303,7 +2303,7 @@
     {
       "id": "760506",
       "utcDate": "2026-07-06T19:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
@@ -2319,8 +2319,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "venue": "AT&T Stadium, Arlington, Texas"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-06T18:59:24.879745+00:00",
+  "lastUpdated": "2026-07-06T20:57:27.751066+00:00",
   "source": "espn"
 }
