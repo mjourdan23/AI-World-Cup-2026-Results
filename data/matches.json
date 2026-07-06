@@ -2253,7 +2253,7 @@
     {
       "id": "760504",
       "utcDate": "2026-07-05T20:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
@@ -2269,16 +2269,16 @@
       },
       "score": {
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 2
         }
       },
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     },
     {
       "id": "760505",
-      "utcDate": "2026-07-06T00:00Z",
-      "status": "SCHEDULED",
+      "utcDate": "2026-07-06T01:00Z",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
@@ -2294,8 +2294,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 3
         }
       },
       "venue": "Estadio Banorte, Mexico City"
@@ -2458,14 +2458,14 @@
       "stage": "QUARTER_FINALS",
       "group": null,
       "homeTeam": {
-        "name": "Round of 16 3 Winner",
-        "shortName": "RD16 W3",
-        "tla": "RD16 W3"
+        "name": "Norway",
+        "shortName": "Norway",
+        "tla": "NOR"
       },
       "awayTeam": {
-        "name": "Round of 16 4 Winner",
-        "shortName": "RD16 W4",
-        "tla": "RD16 W4"
+        "name": "England",
+        "shortName": "England",
+        "tla": "ENG"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-06T00:12:21.878629+00:00",
+  "lastUpdated": "2026-07-06T04:53:41.903090+00:00",
   "source": "espn"
 }
