@@ -2328,7 +2328,7 @@
     {
       "id": "760507",
       "utcDate": "2026-07-07T00:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
@@ -2344,8 +2344,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 4
         }
       },
       "venue": "Lumen Field, Seattle, Washington"
@@ -2438,9 +2438,9 @@
         "tla": "ESP"
       },
       "awayTeam": {
-        "name": "Round of 16 6 Winner",
-        "shortName": "RD16 W6",
-        "tla": "RD16 W6"
+        "name": "Belgium",
+        "shortName": "Belgium",
+        "tla": "BEL"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-06T23:39:40.622549+00:00",
+  "lastUpdated": "2026-07-07T03:56:28.865260+00:00",
   "source": "espn"
 }
