@@ -2378,7 +2378,7 @@
     {
       "id": "760508",
       "utcDate": "2026-07-07T20:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
@@ -2394,8 +2394,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "venue": "BC Place, Vancouver"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-07T19:05:49.581479+00:00",
+  "lastUpdated": "2026-07-07T21:08:00.648194+00:00",
   "source": "espn"
 }
