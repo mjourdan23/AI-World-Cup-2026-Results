@@ -2378,7 +2378,7 @@
     {
       "id": "760508",
       "utcDate": "2026-07-07T20:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "ROUND_OF_16",
       "group": null,
@@ -2488,9 +2488,9 @@
         "tla": "ARG"
       },
       "awayTeam": {
-        "name": "Round of 16 8 Winner",
-        "shortName": "RD16 W8",
-        "tla": "RD16 W8"
+        "name": "Switzerland",
+        "shortName": "Switzerland",
+        "tla": "SUI"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-07T22:38:56.465761+00:00",
+  "lastUpdated": "2026-07-08T00:02:49.819184+00:00",
   "source": "espn"
 }
