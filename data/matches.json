@@ -2403,7 +2403,7 @@
     {
       "id": "760510",
       "utcDate": "2026-07-09T20:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-09T22:01:26.073935+00:00",
+  "lastUpdated": "2026-07-09T23:46:50.329420+00:00",
   "source": "espn"
 }
