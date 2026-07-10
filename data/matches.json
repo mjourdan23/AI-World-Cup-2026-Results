@@ -2508,9 +2508,9 @@
       "stage": "SEMI_FINALS",
       "group": null,
       "homeTeam": {
-        "name": "Quarterfinal 1 Winner",
-        "shortName": "QF W1",
-        "tla": "QFW1"
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA"
       },
       "awayTeam": {
         "name": "Quarterfinal 2 Winner",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-09T23:46:50.329420+00:00",
+  "lastUpdated": "2026-07-10T03:51:35.565373+00:00",
   "source": "espn"
 }
