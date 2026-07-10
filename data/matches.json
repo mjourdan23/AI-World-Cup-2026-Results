@@ -2428,7 +2428,7 @@
     {
       "id": "760511",
       "utcDate": "2026-07-10T19:00Z",
-      "status": "FINISHED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
@@ -2513,9 +2513,9 @@
         "tla": "FRA"
       },
       "awayTeam": {
-        "name": "Quarterfinal 2 Winner",
-        "shortName": "QF W2",
-        "tla": "QFW2"
+        "name": "Spain",
+        "shortName": "Spain",
+        "tla": "ESP"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-10T21:10:52.427111+00:00",
+  "lastUpdated": "2026-07-10T22:33:13.145925+00:00",
   "source": "espn"
 }
