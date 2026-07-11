@@ -2469,8 +2469,8 @@
       },
       "score": {
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         }
       },
       "venue": "Hard Rock Stadium, Miami Gardens, Florida"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-11T22:24:07.894644+00:00",
+  "lastUpdated": "2026-07-11T23:29:12.568590+00:00",
   "source": "espn"
 }
