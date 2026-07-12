@@ -2453,7 +2453,7 @@
     {
       "id": "760512",
       "utcDate": "2026-07-11T21:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
@@ -2470,7 +2470,7 @@
       "score": {
         "fullTime": {
           "home": 1,
-          "away": 1
+          "away": 2
         }
       },
       "venue": "Hard Rock Stadium, Miami Gardens, Florida"
@@ -2533,9 +2533,9 @@
       "stage": "SEMI_FINALS",
       "group": null,
       "homeTeam": {
-        "name": "Quarterfinal 3 Winner",
-        "shortName": "QF W3",
-        "tla": "QFW3"
+        "name": "England",
+        "shortName": "England",
+        "tla": "ENG"
       },
       "awayTeam": {
         "name": "Quarterfinal 4 Winner",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-11T23:29:12.568590+00:00",
+  "lastUpdated": "2026-07-12T01:08:34.307161+00:00",
   "source": "espn"
 }
