@@ -2478,7 +2478,7 @@
     {
       "id": "760513",
       "utcDate": "2026-07-12T01:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
@@ -2494,8 +2494,8 @@
       },
       "score": {
         "fullTime": {
-          "home": 1,
-          "away": 0
+          "home": 3,
+          "away": 1
         }
       },
       "venue": "GEHA Field at Arrowhead Stadium, Kansas City, Missouri"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-12T04:56:00.078857+00:00",
+  "lastUpdated": "2026-07-12T07:32:23.951587+00:00",
   "source": "espn"
 }
