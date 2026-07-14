@@ -2503,7 +2503,7 @@
     {
       "id": "760514",
       "utcDate": "2026-07-14T19:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
@@ -2519,8 +2519,8 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         }
       },
       "venue": "AT&T Stadium, Arlington, Texas"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-14T20:39:54.879949+00:00",
+  "lastUpdated": "2026-07-14T22:03:01.154168+00:00",
   "source": "espn"
 }
