@@ -2520,7 +2520,7 @@
       "score": {
         "fullTime": {
           "home": 0,
-          "away": 2
+          "away": 1
         }
       },
       "venue": "AT&T Stadium, Arlington, Texas"
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-14T22:03:01.154168+00:00",
+  "lastUpdated": "2026-07-14T23:26:19.590930+00:00",
   "source": "espn"
 }
