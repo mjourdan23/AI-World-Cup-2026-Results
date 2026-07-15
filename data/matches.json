@@ -2503,7 +2503,7 @@
     {
       "id": "760514",
       "utcDate": "2026-07-14T19:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
@@ -2520,7 +2520,7 @@
       "score": {
         "fullTime": {
           "home": 0,
-          "away": 1
+          "away": 2
         }
       },
       "venue": "AT&T Stadium, Arlington, Texas"
@@ -2558,9 +2558,9 @@
       "stage": "GROUP_STAGE",
       "group": null,
       "homeTeam": {
-        "name": "Semifinal 1 Loser",
-        "shortName": "SF L1",
-        "tla": "SF L1"
+        "name": "France",
+        "shortName": "France",
+        "tla": "FRA"
       },
       "awayTeam": {
         "name": "Semifinal 2 Loser",
@@ -2583,9 +2583,9 @@
       "stage": "FINAL",
       "group": null,
       "homeTeam": {
-        "name": "Semifinal 1 Winner",
-        "shortName": "SF W1",
-        "tla": "SFW1"
+        "name": "Spain",
+        "shortName": "Spain",
+        "tla": "ESP"
       },
       "awayTeam": {
         "name": "Semifinal 2 Winner",
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-14T23:26:19.590930+00:00",
+  "lastUpdated": "2026-07-15T00:53:33.567257+00:00",
   "source": "espn"
 }
