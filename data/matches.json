@@ -2528,7 +2528,7 @@
     {
       "id": "760515",
       "utcDate": "2026-07-15T19:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
@@ -2563,9 +2563,9 @@
         "tla": "FRA"
       },
       "awayTeam": {
-        "name": "Semifinal 2 Loser",
-        "shortName": "SF L2",
-        "tla": "SF L2"
+        "name": "England",
+        "shortName": "England",
+        "tla": "ENG"
       },
       "score": {
         "fullTime": {
@@ -2588,9 +2588,9 @@
         "tla": "ESP"
       },
       "awayTeam": {
-        "name": "Semifinal 2 Winner",
-        "shortName": "SF W2",
-        "tla": "SFW2"
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "tla": "ARG"
       },
       "score": {
         "fullTime": {
@@ -2601,6 +2601,6 @@
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-15T21:05:22.760962+00:00",
+  "lastUpdated": "2026-07-15T22:31:22.691009+00:00",
   "source": "espn"
 }
