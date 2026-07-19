@@ -2594,13 +2594,13 @@
       },
       "score": {
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         }
       },
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-19T20:57:11.847959+00:00",
+  "lastUpdated": "2026-07-19T22:00:28.362463+00:00",
   "source": "espn"
 }
