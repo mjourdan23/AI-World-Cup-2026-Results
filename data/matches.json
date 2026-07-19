@@ -2578,7 +2578,7 @@
     {
       "id": "760517",
       "utcDate": "2026-07-19T19:00Z",
-      "status": "SCHEDULED",
+      "status": "IN_PLAY",
       "matchday": null,
       "stage": "FINAL",
       "group": null,
@@ -2594,13 +2594,13 @@
       },
       "score": {
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "venue": "MetLife Stadium, East Rutherford, New Jersey"
     }
   ],
-  "lastUpdated": "2026-07-19T19:46:54.463316+00:00",
+  "lastUpdated": "2026-07-19T20:57:11.847959+00:00",
   "source": "espn"
 }
